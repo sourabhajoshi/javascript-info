@@ -1,2 +1,2 @@
 # javascript-info
-javascript.info exercises
+javascript.info exercises : https://javascript.info/
